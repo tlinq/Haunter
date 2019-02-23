@@ -1,0 +1,5 @@
+/Assembly*
+/Assets/Standard/*
+/Library/*
+/obj/Debug*
+/Temp*
